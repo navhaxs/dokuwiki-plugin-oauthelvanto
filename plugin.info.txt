@@ -1,0 +1,7 @@
+base   oauthelvanto
+author Jeremy Wong
+email  jeremy@twohandslifted.com
+date   2024-10-22
+name   oauth Elvanto
+desc   Elvanto for use with the oAuth Plugin
+url    http://www.dokuwiki.org/plugin:oauthelvanto
